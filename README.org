@@ -1,0 +1,3 @@
+* My personal repository
+** Initial setup
+Here I'm supposed to add text and generic info.
